@@ -1,0 +1,4 @@
+practice38-1.a
+*.a
+data/
+!practice38-1.a
